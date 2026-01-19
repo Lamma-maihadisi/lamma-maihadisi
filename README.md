@@ -6,7 +6,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 
 <p align="center">
-  <i>A passionate Blockchain Engineer building decentralized solutions with Solidity, Foundry, and Web3.</i>
+  <i>Backend developer with experience in Django, Django REST Framework, and real-world web applications.
+Also exploring blockchain development with Solidity and Web3.</i>
 </p>
 
 ---
